@@ -1,5 +1,5 @@
 # abbagadabba
 
-An R package the facilitates amplicon-based biodiversity assessment, gap analysis, database building, and more!
+An R package the facilitates **a**mplicon-**b**ased **b**iodiversity **a**ssessment, **g**ap **a**nalysis, **d**atabase **b**uilding, **a**nd more!
 
-Pronounced "abba-ga-dabba" like if you were trying to say "[abracadabra](https://en.wikipedia.org/wiki/Abracadabra)" but weren't sure how.
+Pronounced "abba-ga-dabba" (the "m" for "more" is silent) like if you were trying to say "[abracadabra](https://en.wikipedia.org/wiki/Abracadabra)" but weren't sure how.
